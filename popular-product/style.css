@@ -1,0 +1,23 @@
+.popular_product_item {
+    position: relative;
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.product_item_image {
+    height: 420px;
+    width: 300px;
+    border-radius: 18px;
+}
+.popular_product_item_text{
+
+    color: #fff;
+    position: absolute;
+    left: 24px;
+    bottom: 24px;
+    font-weight: 500;
+    font-size: 26px;
+}
+.name_item{
+    margin-bottom: 12px;
+}
